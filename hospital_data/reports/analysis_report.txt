@@ -1,0 +1,20 @@
+
+========================================
+Heart Rate Analysis - 2026-01-29 17:38:53
+========================================
+Device: HeartRate_Monitor_A - Count:      138
+  First entry: 2026-01-29 17:36:35
+  Last entry: 2026-01-29 17:38:52
+
+Device: HeartRate_Monitor_B - Count:      138
+  First entry: 2026-01-29 17:36:35
+  Last entry: 2026-01-29 17:38:52
+
+
+========================================
+Water Usage Analysis - 2026-01-29 18:25:57
+========================================
+Device: Water_Consumption_Meter - Count:     5616
+  First entry: 2026-01-29 13:30:41
+  Last entry: 2026-01-29 18:25:56
+
